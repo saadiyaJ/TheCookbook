@@ -1,6 +1,6 @@
 # Flutter The Cookbook App
 
-<img src="https://github.com/saadiyaJ/the_cookbook/blob/main/screenshots/cookbook.gif" alt="App Demo" width="200" height="350">
+<img src="https://github.com/saadiyaJ/TheCookbook/blob/main/screenshots/cookbook.gif" alt="App Demo" width="200" height="350">
 
 ## Introduction
 This is a useful beginner-level Flutter Expense Tracker App project.
